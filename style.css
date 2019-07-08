@@ -18,6 +18,16 @@ body {
 h5 {
     color: white;
 }
+
+.card {
+    background-image: url(../Basic-Portfolio/Assets/Images/Saftey_300x300.jpg) !important;
+    opacity: .70;
+}
+
+.card-title {
+    color: #4aaaa5;
+}
+
 #navigationbar {
     height: 70px;
     font-family: 'Georgia', Times, serif;
